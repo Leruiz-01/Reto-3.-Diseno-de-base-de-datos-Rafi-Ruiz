@@ -1,0 +1,3 @@
+1,Juan Perez,Mexicano
+2,Ana Lopez,Española
+3,Carlos Ruiz,Salvadoreno

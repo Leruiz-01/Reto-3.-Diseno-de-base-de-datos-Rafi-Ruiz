@@ -1,0 +1,3 @@
+1,El Quijote,978-3-16-148410-0,1605,Editorial Alfa,Novela,1
+2,Cien Años de Soledad,978-84-376-0494-7,1967,Editorial Beta,Realismo,2
+3,La Sombra del Viento,978-84-08-04637-2,2001,Editorial Gamma,Misterio,3
